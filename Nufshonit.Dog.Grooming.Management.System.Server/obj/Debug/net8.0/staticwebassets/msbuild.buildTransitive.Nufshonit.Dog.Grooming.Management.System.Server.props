@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Nufshonit.Dog.Grooming.Management.System.Server.props" />
+</Project>

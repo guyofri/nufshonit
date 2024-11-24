@@ -1,0 +1,6 @@
+@Nufshonit.Dog.Grooming.Management.System.Server_HostAddress = http://localhost:5195
+
+GET {{Nufshonit.Dog.Grooming.Management.System.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

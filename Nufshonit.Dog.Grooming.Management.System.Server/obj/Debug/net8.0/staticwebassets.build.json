@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "u4L6cNbcx3fLDbqgTwqAFidPmuzTmslhmfHiyb+UXG4=",
+  "Source": "Nufshonit.Dog.Grooming.Management.System.API",
+  "BasePath": "_content/Nufshonit.Dog.Grooming.Management.System.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\guy\\source\\repos\\Nufshonit.Dog.Grooming.Management.System\\nufshonit.dog.grooming.management.system.client\\nufshonit.dog.grooming.management.system.client.esproj",
+      "Version": 2,
+      "Source": "nufshonit.dog.grooming.management.system.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

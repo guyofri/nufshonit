@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Nufshonit.Dog.Grooming.Management.System.API.props" />
+</Project>
