@@ -1,0 +1,35 @@
+﻿#root {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+    padding: 1rem;
+    margin: .5rem 0rem 1rem 0rem;
+    border: 2px solid darkviolet;
+    border-radius: 15px;
+    padding-top: 0rem;
+    background: whitesmoke
+}
+
+th, td {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+body {
+    margin: 0 auto;
+    width: 37%;
+    color: darkslateblue;
+}
+* {
+    direction: rtl;
+}
+
+/*.container {
+    padding: 1rem;
+    margin: .5rem 0rem 1rem 0rem;
+    border: 2px solid darkviolet;
+    border-radius: 15px;
+    padding-top: 0rem;
+    background: aliceblue
+}*/
