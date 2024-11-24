@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Nufshonit.Dog.Grooming.Management.System.Infrastructure\Nufshonit.Dog.Grooming.Management.System.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
