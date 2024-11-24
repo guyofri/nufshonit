@@ -1,0 +1,11 @@
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\bin\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.deps.json
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\bin\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.dll
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\bin\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.pdb
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.AssemblyInfoInputs.cache
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.AssemblyInfo.cs
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.dll
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\obj\Debug\net8.0\refint\Nufshonit.Dog.Grooming.Management.System.Domain.dll
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.pdb
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Domain\obj\Debug\net8.0\ref\Nufshonit.Dog.Grooming.Management.System.Domain.dll
