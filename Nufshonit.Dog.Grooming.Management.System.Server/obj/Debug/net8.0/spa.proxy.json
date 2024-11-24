@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:5173",
 "RedirectUrl": "",
 "LaunchCommand": "npm run dev",
-"WorkingDirectory": "C:\\Users\\guy\\source\\repos\\Nufshonit.Dog.Grooming.Management.System\\Nufshonit.Dog.Grooming.Management.System.Server\\..\\nufshonit.dog.grooming.management.system.client",
+"WorkingDirectory": "C:\\Users\\guy\\Downloads\\nufshonit-main\\nufshonit-main\\Nufshonit.Dog.Grooming.Management.System.Server\\..\\nufshonit.dog.grooming.management.system.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

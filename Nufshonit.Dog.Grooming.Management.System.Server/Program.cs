@@ -38,13 +38,12 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowFrontend",
-        policy =>
-        {
-            policy.WithOrigins("https://localhost:5173") // Frontend origin
-                  .AllowAnyHeader()
-                  .AllowAnyMethod();
-        });
+    options.AddPolicy("AllowAllOrigins", policy =>
+    {
+        policy.AllowAnyOrigin() // Allows requests from all origins
+              .AllowAnyHeader() // Allows any header
+              .AllowAnyMethod(); // Allows any HTTP method
+    });
 });
 
 builder.Services.AddAuthentication(options =>
@@ -68,7 +67,7 @@ builder.Services.AddAuthentication(options =>
 });
 
 var app = builder.Build();
-app.UseCors("AllowFrontend");
+app.UseCors("AllowAllOrigins");
 
 
 

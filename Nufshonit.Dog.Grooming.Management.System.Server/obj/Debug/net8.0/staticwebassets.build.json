@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "u4L6cNbcx3fLDbqgTwqAFidPmuzTmslhmfHiyb+UXG4=",
+  "Hash": "3IXb+PXuS5xG8MXSxMfoFtNyyUi4O8zcxGaFXNVBkgg=",
   "Source": "Nufshonit.Dog.Grooming.Management.System.API",
   "BasePath": "_content/Nufshonit.Dog.Grooming.Management.System.API",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\guy\\source\\repos\\Nufshonit.Dog.Grooming.Management.System\\nufshonit.dog.grooming.management.system.client\\nufshonit.dog.grooming.management.system.client.esproj",
+      "Identity": "C:\\Users\\guy\\Downloads\\nufshonit-main\\nufshonit-main\\nufshonit.dog.grooming.management.system.client\\nufshonit.dog.grooming.management.system.client.esproj",
       "Version": 2,
       "Source": "nufshonit.dog.grooming.management.system.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
