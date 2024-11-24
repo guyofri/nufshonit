@@ -1,0 +1,17 @@
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\bin\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Infrastructure.deps.json
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\bin\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Infrastructure.dll
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\bin\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Infrastructure.pdb
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\bin\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Common.dll
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\bin\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.dll
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\bin\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Common.pdb
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\bin\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Domain.pdb
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Infrastructure.AssemblyInfo.cs
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\obj\Debug\net8.0\Nufshoni.B90FC9B2.Up2Date
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Infrastructure.dll
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\obj\Debug\net8.0\refint\Nufshonit.Dog.Grooming.Management.System.Infrastructure.dll
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\obj\Debug\net8.0\Nufshonit.Dog.Grooming.Management.System.Infrastructure.pdb
+C:\Users\guy\source\repos\Nufshonit.Dog.Grooming.Management.System\Nufshonit.Dog.Grooming.Management.System.Infrastructure\obj\Debug\net8.0\ref\Nufshonit.Dog.Grooming.Management.System.Infrastructure.dll
